@@ -1,6 +1,5 @@
 # Exp02-RollABall
 
-#### Register number: 212222220002
 ## Aim:
 To develop a 3D application for Roll A Ball in unity.
 
